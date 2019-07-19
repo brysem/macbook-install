@@ -124,6 +124,8 @@ brew cask install slack
 brew cask install sequel-pro
 brew cask install spotify
 brew cask install postman
+brew cask install microsoft-office
+brew cask install libreoffice
 
 brew cask install font-fira-code
 brew cask install font-fira-mono
